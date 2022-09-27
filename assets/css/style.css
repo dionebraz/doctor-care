@@ -175,8 +175,8 @@ nav {
     width: 100vw;
     height: var(--nav-height);
 
-    position: fixed;
-    top: 0;
+    /* position: fixed;
+    top: 0; */
 
     z-index: 100;
 }
